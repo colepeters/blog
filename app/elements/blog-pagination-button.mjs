@@ -14,7 +14,6 @@ export default function BlogPaginationButton({ html, state }) {
          align-items-center
          justify-content-center
          font-body
-         leading5
          m0
         "
     >

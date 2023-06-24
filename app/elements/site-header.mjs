@@ -7,7 +7,7 @@ export default function SiteHeader ({ html }) {
     </style>
     <header>
       <a href='/' class='no-underline'>
-        <h1 class='font-heading pbs4 pbe-2'>
+        <h1 class='font-heading pbs4 pbe-3'>
           Monotonous Processes
         </h1>
         <p class='font-body italic text-1 pbe4'>

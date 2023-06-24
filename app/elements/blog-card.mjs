@@ -21,7 +21,7 @@ export default function BlogPost({ html, state }) {
     </style>
     <a href="${href}" class="no-underline">
       <article class="pb2">
-        <div class="font-body leading3">
+        <div class="font-body">
           <h1 class="font-heading">${title}</h1>
           <p class="text-1">${description}</p>
         </div>

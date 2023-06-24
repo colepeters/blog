@@ -17,6 +17,7 @@ export async function get(req) {
   const parsedOffset = parseInt(req.query.offset, 10)
   const offset = parsedOffset >= 0 ? parsedOffset : 0
   const total = posts.length
+  const hideFooterIndex = true
 
   return {
     json: {
@@ -25,6 +26,7 @@ export async function get(req) {
       offset,
       total,
       hCard,
+      hideFooterIndex,
     },
   }
 }
