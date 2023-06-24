@@ -47,15 +47,15 @@ async function generate () {
   )
 
   const feed = new Feed({
-    title: 'Enhance Blog Template',
-    description: "My blog description.",
+    title: 'Monotonous Processes',
+    description: 'A personal weblog by Cole Peters',
     id: hostname,
     link: hostname,
     language: 'en',
-    copyright: `All rights reserved ${new Date().getFullYear()}, My Company`,
+    copyright: `All rights reserved ${new Date().getFullYear()} Cole Peters`,
     generator: hostname + ' via Feed for Node.js',
     author: {
-      name: 'My Company',
+      name: 'Cole Peters',
       link: hostname,
     },
   })
