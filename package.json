@@ -1,6 +1,6 @@
 {
   "name": "enhance-blog-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "enhance": "enhance",
     "posts": "node ./src/plugins/create-post-metadata.js",
