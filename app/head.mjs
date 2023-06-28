@@ -36,13 +36,13 @@ export default function Head(state) {
         <style>
           @font-face {
             font-family: EB Garamond;
-            src: url('/_public/fonts/EBGaramond12-Regular.woff') format('woff');
+            src: url('/_public/fonts/EBGaramond12-Regular.woff2') format('woff2');
             font-weight: 400;
           }
           
           @font-face {
             font-family: EB Garamond;
-            src: url('/_public/fonts/EBGaramond12-Italic.woff') format('woff');
+            src: url('/_public/fonts/EBGaramond12-Italic.woff2') format('woff2');
             font-weight: 400;
             font-style: italic;
           }
