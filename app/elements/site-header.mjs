@@ -8,7 +8,7 @@ export default function SiteHeader ({ html }) {
     <header>
       <a href='/' class='no-underline'>
         <h1 class='font-heading pbs4 pbe-3'>
-          Monotonous Processes
+          A thin mantle of ash
         </h1>
         <p class='font-body italic text-1 pbe4'>
           A personal weblog by Cole Peters

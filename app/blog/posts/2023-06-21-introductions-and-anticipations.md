@@ -1,12 +1,12 @@
 ---
 title: Introductions and anticipations
 description: "Welcome to my corner of the internet. I’m still getting things set up…"
-published: "March 8, 2023"
+published: "June 28, 2023"
 ---
 
 It’s a funny thing, starting a personal blog in the year 2023 — somehow awkward and a little exciting all at once. Having been born in the mid 80s, I grew up with blogs as a teenager and young adult. Over the past decade or so, personal blogs have largely fallen by the wayside, the practice slowly eroded by one social media platform after another. But 2023 may prove to be a turning point. Many of these ‘social’ edifices are crumbling, and [personal blogging, it seems, could be resurgent.](https://www.theverge.com/23513418/bring-back-personal-blogging)
 
-I’m excited about the premise of personal blogging making a comeback. There’s much to recommend it, from the DIY spirit and decentralized infrastructure to the freedom of space and expression. I admit it’s also a little intimidating, though. Is anyone out there? Will anyone read this? How do you even go about *finding* blogs in the year 2023? To what end I am tapping these words into being?
+I’m excited about the premise of personal blogging making a comeback. There’s much to recommend it, from the DIY spirit and decentralized infrastructure to the freedom of space and expression. I admit it’s also a little intimidating, though. Is anyone out there? Will anyone read this? How do you even go about *finding* blogs in 2023? To what end I am tapping these words into being?
 
 But perhaps I’m getting ahead of myself. Although I imagine that most of you reading this may already be familiar with who I am, some of you may not be — and those of you who are may be wondering what I’m up to here. So here’s what’s worth knowing if you’re planning on sticking around.
 

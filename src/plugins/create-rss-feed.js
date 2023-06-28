@@ -47,7 +47,7 @@ async function generate () {
   )
 
   const feed = new Feed({
-    title: 'Monotonous Processes',
+    title: 'A thin mantle of ash',
     description: 'A personal weblog by Cole Peters',
     id: hostname,
     link: hostname,
