@@ -27,6 +27,9 @@ export default function Head(state) {
         ${getLinkTag()}
         <link rel='stylesheet' href='/_public/css/global.css' />
         <link rel='webmention' href='${siteUrl}/webmention' />
+        <link rel='icon' href='/_public/favicon.png' />
+        <meta name="image" content="/_public/opengraph.jpg" />
+        <meta name="og:image" content="/_public/opengraph.jpg" />
         <link href='https://colepeters.com' rel='me' />
         <link href='https://mastodon.online/@colepeters' rel='me' />
         <link href='https://instagram.com/titledspheres' rel='me' />
