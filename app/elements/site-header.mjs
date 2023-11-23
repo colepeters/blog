@@ -16,6 +16,12 @@ export default function SiteHeader ({ html }) {
         inset-inline-start: -1.75em;
       }
 
+      @media (prefers-color-scheme: dark) {
+        h1:after {
+          filter: invert();
+        }
+      }
+
     </style>
     <header>
       <a href='/' class='no-underline'>

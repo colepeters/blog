@@ -35,15 +35,15 @@ export default function Head(state) {
         <link href='https://instagram.com/titledspheres' rel='me' />
         <style>
           @font-face {
-            font-family: EB Garamond;
-            src: url('/_public/fonts/EBGaramond12-Regular.woff2') format('woff2');
-            font-weight: 400;
+            font-family: Newsreader;
+            src: url('/_public/fonts/newsreader.woff2') format('woff2');
+            font-weight: 100 900;
           }
           
           @font-face {
-            font-family: EB Garamond;
-            src: url('/_public/fonts/EBGaramond12-Italic.woff2') format('woff2');
-            font-weight: 400;
+            font-family: Newsreader;
+            src: url('/_public/fonts/newsreader-italic.woff2') format('woff2');
+            font-weight: 100 900;
             font-style: italic;
           }
         </style>
