@@ -11,7 +11,9 @@ export default function BlogPost({ html, state }) {
       }
 
       h1 {
-        text-decoration: underline 0.05em;
+        text-decoration: underline;
+        text-decoration-thickness: 0.033em;
+        text-underline-offset: 0.075em;
       }
 
       .avatar {
